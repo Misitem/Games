@@ -1,0 +1,8 @@
+﻿  Dealer.cpp
+  Game.cpp
+c:\users\metho\source\repos\project1\project1\game.cpp(125): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Main.cpp
+  Player.cpp
+c:\users\metho\source\repos\project1\project1\player.cpp(16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+  Project1.vcxproj -> C:\Users\metho\source\repos\Project1\Debug\Project1.exe
